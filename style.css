@@ -1,0 +1,20 @@
+body{
+  padding-top: 70px;
+}
+
+div.card{
+  width: 230px; /*90%*/
+  height: 360px;
+  margin: 10px;
+  padding: 3%;
+  border: solid gray;
+  border-width: thin;
+  font-size: 15px;
+  /* width: 18rem; */
+}
+
+.card-img-top{
+  /* width: 240px; */
+  width: 90%;
+
+}
